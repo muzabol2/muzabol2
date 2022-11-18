@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I enjoy creating intuitive, user-friendly UIs that bring value to people.
+It makes me happy to create intuitive, user-friendly UIs that bring value to people.
 
+- 🔭 I’m currently working on this React/Firebase Web App [Where's my money?!](https://github.com/muzabol2/my-money)
+- 📫 If you have any suggestions/feedback or just want to chat, don't hesitate: [gmail](mailto:b.muzalewski@gmail.com?subject=[GitHub]%20Hi%20Bolek!)
 <!--
 **muzabol2/muzabol2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
